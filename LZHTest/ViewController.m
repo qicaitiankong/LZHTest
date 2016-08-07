@@ -18,8 +18,7 @@
     [super viewDidLoad];
     //背景颜色
     self.view.backgroundColor = [UIColor grayColor];
-    //01
-    self.view.center = CGPointMake(20, 10);
+   
     
     // Do any additional setup after loading the view, typically from a nib.
 }
